@@ -1,0 +1,19 @@
+{
+  "name": "basic_login",
+  "version": "1.0.0",
+  "description": "basic_login",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinastojakovic/basic_login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinastojakovic/basic_login/issues"
+  },
+  "homepage": "https://github.com/kristinastojakovic/basic_login#readme"
+}
